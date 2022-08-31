@@ -12,7 +12,4 @@ public interface CidadeRepository {
 	void remover(Cidade cidade);
 	
 	
-	
-	
-	
 }
