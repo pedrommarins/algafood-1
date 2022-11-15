@@ -2,8 +2,6 @@ package com.algaworks.algafood.api.model;
 
 import java.math.BigDecimal;
 
-import com.algaworks.algafood.api.model.mixin.CozinhaModel;
-
 import lombok.Getter;
 import lombok.Setter;
 
